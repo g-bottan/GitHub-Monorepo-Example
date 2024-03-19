@@ -20,6 +20,12 @@ on:
       - '.github/workflows/cli-scan.yaml'
       - '.gitignore'
       - 'comp-cli/**/*'
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.github/workflows/cli-scan.yaml'
+      - '.gitignore'
+      - 'comp-cli/**/*'
 ```
 
 The SonarQube scan is run with `comp-cli` as the base directory.
@@ -49,6 +55,13 @@ on:
             - '.gitignore'
             - 'comp-dotnet/*.sln'
             - 'comp-dotnet/project/*.cs*'
+    pull_request:
+        types: [opened, synchronize, reopened]
+        paths:
+        - '.github/workflows/dotnet-scan.yaml'
+        - '.gitignore'
+        - 'comp-dotnet/*.sln'
+        - 'comp-dotnet/project/*.cs*'
 ```
 The .NET build and SonarQube scan are run in the `comp-dotnet` directory.
 ```yaml
@@ -75,6 +88,13 @@ on:
             - '.gitignore'
             - 'comp-maven/src/**/*'
             - 'comp-maven/pom.xml'
+    pull_request:
+        types: [opened, synchronize, reopened]
+        paths:
+        - '.github/workflows/maven-scan.yaml'
+        - '.gitignore'
+        - 'comp-maven/src/**/*'
+        - 'comp-maven/pom.xml'
 ```
 The Maven build and SonarQube scan are run in the `comp-maven` directory.
 ```yaml

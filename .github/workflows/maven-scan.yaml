@@ -11,6 +11,13 @@ on:
       - '.gitignore'
       - 'comp-maven/src/**/*'
       - 'comp-maven/pom.xml'
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.github/workflows/maven-scan.yaml'
+      - '.gitignore'
+      - 'comp-maven/src/**/*'
+      - 'comp-maven/pom.xml'
   workflow_dispatch:
 jobs:
   scan-maven:

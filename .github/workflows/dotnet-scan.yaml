@@ -11,6 +11,13 @@ on:
       - '.gitignore'
       - 'comp-dotnet/*.sln'
       - 'comp-dotnet/project/*.cs*'
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.github/workflows/dotnet-scan.yaml'
+      - '.gitignore'
+      - 'comp-dotnet/*.sln'
+      - 'comp-dotnet/project/*.cs*'
 
   workflow_dispatch:
 jobs:

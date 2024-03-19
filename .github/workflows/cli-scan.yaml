@@ -10,6 +10,13 @@ on:
       - '.github/workflows/cli-scan.yaml'
       - '.gitignore'
       - 'comp-cli/**/*'
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.github/workflows/cli-scan.yaml'
+      - '.gitignore'
+      - 'comp-cli/**/*'
+  
 
   workflow_dispatch:
 
