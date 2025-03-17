@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = dotnet_sample
-build_property.ProjectDir = /Users/theil.bise/repos/monorepo/Monorepo-Example/comp-dotnet/project/
+build_property.ProjectDir = C:\GIT_BTTGLI19\GiasGit\GitHub-Monorepo-Example\comp-dotnet\project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

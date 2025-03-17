@@ -927,8 +927,8 @@
     },
     "shared-library/1.0.0": {
       "type": "project",
-      "path": "../shared-library/shared-library.csproj",
-      "msbuildProject": "../shared-library/shared-library.csproj"
+      "path": "../../comp-dotnet/shared-library/shared-library.csproj",
+      "msbuildProject": "../../comp-dotnet/shared-library/shared-library.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -946,11 +946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj",
-      "projectName": "dotnet-sample",
-      "projectPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj",
+      "projectUniqueName": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj",
+      "projectName": "dotnet-sample-B",
+      "projectPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj",
       "packagesPath": "C:\\Users\\bottan\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\obj\\",
+      "outputPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

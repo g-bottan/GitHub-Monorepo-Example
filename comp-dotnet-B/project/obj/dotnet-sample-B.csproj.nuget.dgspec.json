@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj": {}
+    "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj": {}
   },
   "projects": {
-    "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj": {
+    "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj",
-        "projectName": "dotnet-sample",
-        "projectPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj",
+        "projectUniqueName": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj",
+        "projectName": "dotnet-sample-B",
+        "projectPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj",
         "packagesPath": "C:\\Users\\bottan\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\obj\\",
+        "outputPath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

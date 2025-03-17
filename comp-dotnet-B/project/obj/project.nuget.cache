@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MfLnnek++HI=",
+  "dgSpecHash": "IzBmeH9Qbjw=",
   "success": true,
-  "projectFilePath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet\\project\\dotnet-sample.csproj",
+  "projectFilePath": "C:\\GIT_BTTGLI19\\GiasGit\\GitHub-Monorepo-Example\\comp-dotnet-B\\project\\dotnet-sample-B.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bottan\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\bottan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
